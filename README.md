@@ -1,1 +1,3 @@
-esta es una prueba de visualizacion de el archivo readme de personalizacion de perfil de github
+#  **Hi 👋, I'm Breykerd**
+
+## ⌨ Backend Developer - 💻Web Programer💻 - noob gaming🤓
