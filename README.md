@@ -2,28 +2,41 @@
 
 
 
-<h3 aling="center"> ⌨ Backend Developer - 💻Web Programer💻 - noob gaming🤓</h3>
+#3<h3 aling="center"> ⌨ Backend Developer - 💻Web Programer💻 - noob gaming🤓</h3>
 
 I am a software engineer who is passionate about creating code solutions that make people's daily lives easier.
 
+
+<li> you can ask me about php vanilla and if it within m reach i will gladly help you </li>
+<li></li>
+<li>You cancontact me <a href="mailto:breykerd@gmail.com">Breykerd@gmail.com</a> </li>
 <li>I’m currently learning Python</li>
 
-<h4> Languages</h4>
+
+## Follow me
+
+[![Twitter: Breykerd ](https://img.shields.io/twitter/follow/breykerdnelson?style=social)](https://twitter.com/paskuvan)
+[![Linkedin: Nelson Barroso](https://img.shields.io/badge/-paskuvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-barroso/)](https://www.linkedin.com/in/paskuvan/)
+[![GitHub Breykerd](https://img.shields.io/github/followers/paskuvan?label=follow&style=social)](https://github.com/breykerd)
+
+## Languages
 <li>HTML5/CSS3 (I know it’s not a programming language)</li>
 <li>PHP</li>
 <li>JavaScript</li>
 <li>Python - basic knowledge</li>
 
-<h4> Frameworks</h4>
+## Frameworks
 <li>symfony</li>
 <li>Bootstrap</li>
 
-<h4>other abilities</h4>
+## tools development
+<li>Github</li>
+<li>Visual Studio Code</li>
+<li>Xampp</li>
+
+## other abilities
 <li>Adobe Illustrator</li>
 <li>Adobe Photoshop</li>
 <li>Adobe XD</li>
 
-<h4>tools development</h4>
-<li>Github</li>
-<li>Visual Studio Code</li>
-<li>Xampp</li>
+
