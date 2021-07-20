@@ -2,13 +2,13 @@
 
 
 
-#3<h3 aling="center"> ⌨ Backend Developer - 💻Web Programer💻 - noob gaming🤓</h3>
+##<h3 aling="center"> ⌨ Backend Developer - 💻Web Programer💻 - noob gaming🤓</h3>
 
 I am a software engineer who is passionate about creating code solutions that make people's daily lives easier.
 
 
 <li> you can ask me about php vanilla and if it within m reach i will gladly help you </li>
-<li></li>
+<li>i am currentry in the task of acquiring knowledge about video game development, which is wha iam most passionate about</li>
 <li>You cancontact me <a href="mailto:breykerd@gmail.com">Breykerd@gmail.com</a> </li>
 <li>I’m currently learning Python</li>
 
