@@ -16,7 +16,7 @@ I am a software engineer who is passionate about creating code solutions that ma
 ## Follow me
 
 [![Twitter: Breykerd ](https://img.shields.io/twitter/follow/breykerdnelson?style=social)](https://twitter.com/paskuvan)
-[![Linkedin: Nelson Barroso](https://img.shields.io/badge/-paskuvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-barroso/)](https://www.linkedin.com/in/paskuvan/)
+[![Linkedin: Nelson Barroso](https://img.shields.io/badge/-paskuvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-barroso/)](https://www.linkedin.com/in/nelson-barroso/)
 [![GitHub Breykerd](https://img.shields.io/github/followers/paskuvan?label=follow&style=social)](https://github.com/breykerd)
 
 ## Languages
