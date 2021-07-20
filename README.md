@@ -7,10 +7,11 @@
 I am a software engineer who is passionate about creating code solutions that make people's daily lives easier.
 
 
-<li> you can ask me about php vanilla and if it within m reach i will gladly help you </li>
-<li>i am currentry in the task of acquiring knowledge about video game development, which is wha iam most passionate about</li>
-<li>You cancontact me <a href="mailto:breykerd@gmail.com">Breykerd@gmail.com</a> </li>
-<li>I’m currently learning Python</li>
+- 🐘 you can ask me about php vanilla and if it within m reach i will gladly help you 
+- :video_game: i am currentry in the task of acquiring knowledge about video game development, which is wha iam most passionate about
+- 📬 You cancontact me <a href="mailto:breykerd@gmail.com">Breykerd@gmail.com</a> 
+- 💼 portfolio of creations and developments <b>Coming sonn</b> still under construction 🤣
+- 🐍 I’m currently learning Python
 
 
 ## Follow me
@@ -20,23 +21,23 @@ I am a software engineer who is passionate about creating code solutions that ma
 [![GitHub Breykerd](https://img.shields.io/github/followers/breykerd?label=follow&style=social)](https://github.com/breykerd)
 
 ## Languages
-<li>HTML5/CSS3 (I know it’s not a programming language)</li>
-<li>PHP</li>
-<li>JavaScript</li>
-<li>Python - basic knowledge</li>
+- HTML5/CSS3 (I know it’s not a programming language)
+- PHP
+- JavaScript
+- Python - basic knowledge
 
 ## Frameworks
-<li>symfony</li>
-<li>Bootstrap</li>
+- symfony
+- Bootstrap
 
 ## tools development
-<li>Github</li>
-<li>Visual Studio Code</li>
-<li>Xampp</li>
+- Github
+- Visual Studio Code
+- Xampp
 
 ## other abilities
-<li>Adobe Illustrator</li>
-<li>Adobe Photoshop</li>
-<li>Adobe XD</li>
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe XD
 
 
