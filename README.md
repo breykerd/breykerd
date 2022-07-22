@@ -1,4 +1,4 @@
-## <h1 aling="center"> **Hello World  👋, I'm Breykerd**</h1>
+## <h1 aling="center"> **Hello World  👋, I'm Nelson Barroso**</h1>
 
 
 
@@ -16,28 +16,30 @@ I am a software engineer who is passionate about creating code solutions that ma
 
 ## Follow me
 
-[![Twitter: Breykerd ](https://img.shields.io/twitter/follow/breykerdnelson?style=social)](https://twitter.com/breykerdnelson)
-[![Linkedin: Nelson Barroso](https://img.shields.io/badge/-nelson-barroso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelson-barroso/)](https://www.linkedin.com/in/nelson-barroso/)
-[![GitHub Breykerd](https://img.shields.io/github/followers/breykerd?label=follow&style=social)](https://github.com/breykerd)
+[![Twitter: Breykerd ](https://img.shields.io/badge/@breykerdnelson-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/breykerdnelson)
+[![Linkedin: Nelson Barroso](https://img.shields.io/badge/nelson&nbsp;Barroso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-barroso/)
+[![GitHub](https://img.shields.io/badge/breykerd-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breykerd)
 
 ## Languages
-- HTML5/CSS3 (I know it’s not a programming language)
-- PHP
-- JavaScript
-- Python - basic knowledge
+- ![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)(I know it’s not a programming language)
+- ![General badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![General badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - basic knowledge
 
 ## Frameworks
-- symfony
-- Bootstrap
+- ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## tools development
-- Github
-- Visual Studio Code
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - Xampp
 
 ## other abilities
-- Adobe Illustrator
-- Adobe Photoshop
-- Adobe XD
+- ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+
 
 
